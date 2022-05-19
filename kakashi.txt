@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Invitation letter</title>
+</head>
+<body style="background-color: rgb(222, 79, 7);">
+    <h1><marquee scrollamount="10"
+    direction="right">----WELCOME----</marquee></h1>
+
+    <center><h1 style="border: 5px double rgb(30, 187, 208);">Invitation for inaugration</h6></center>
+        <i><h2><center>You are invited to attend</center></h2></i>
+        <center><h2 style="color:rgb(28, 162, 189);">Inaugration ceremony</h2></center>
+        <i><h2><center>of</center></h2></i>
+        <center><h2 style="color:rgb(49, 66, 171);">Computer center lab</h2></center>
+        <i><h2><center>at</center></h2></i>
+        <h2><center>------------------------------------------------------------------------------------------------------</center></h2>
+        <center><h2 style="color:rgb(26, 32, 30);">SB JAIN INSTITUTE OF TECHNOLOGY MANAGMENT AND RESEARCH</h2></center>
+        <h2><center>------------------------------------------------------------------------------------------------------</center></h2>
+        <i><h2><center>ON</center></h2></i>
+        <center><h3 style><b> Guests :</b></h3></i></center>
+       <center> <ol>
+            <li>Hon. Principal</li>
+            <li> Hon. HOD</li>
+            
+        </ol></center>
+        <center><h3>Venue:</ul></h3></center>
+        <center><h4><i><u>TULI INTERNATION</u></i></h4></center>
+        <center><h2 style="color:rgb(17, 15, 15);">18/05/2022</h2></center>
+        <h3><i>><marque scrollamount ="5"
+        direction="left">Thank you</marque></h3>
+        </i>
+</body>
+</html>
